@@ -2,4 +2,4 @@
 - 👀 I’m interested in coding, music, retro video games, and puzzles!
 - 🌱 I’m currently learning Django with Python.
 - 💞️ I’m looking to collaborate on more Unity based projects and Three.js!
-- 📫 How to reach me: katarina.lea@globacore.com & my website is www.katarinelea.com.
+- 📫 How to reach me: katarina.lea@globacore.com & my website is https://katarinalea.com/.
