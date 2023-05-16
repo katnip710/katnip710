@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katnip710 (Kat Lea)
 - 👀 I’m interested in coding, music, retro video games, and puzzles!
-- 🌱 I’m currently learning TypeScript with Next.js.
+- 🌱 I’m currently learning Material Ui.
 - 💞️ I’m looking to collaborate on more Unity based projects and Three.js!
 - 📫 How to reach me: info@katarinalea.com & my website is https://katarinalea.com.
