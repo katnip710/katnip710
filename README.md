@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @katnip710 (Kat Lea)
 - 👀 I’m interested in coding, music, retro video games, and puzzles!
-- 🌱 I’m currently learning Sitecore + APIs.
-- 💞️ I’m looking to collaborate on more Unity based projects and Three.js!
+- 🌱 I’m currently learning Sitecore and AI integration.
+- 💞️ I’m looking to collaborate on more Three.js projects and new interesting libraries!
 - 📫 How to reach me: info@katarinalea.com & my website is https://katarinalea.com.
